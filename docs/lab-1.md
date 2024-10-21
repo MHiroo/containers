@@ -57,6 +57,7 @@ e.g. `java -jar /path/to/my.jar`? What do you see if you visit the URL
   
 
     *\[answer\]*
+![image](https://github.com/user-attachments/assets/4541533b-6619-4cff-8b46-2a79eb5ebe6f)
 
   
 
